@@ -16,6 +16,8 @@ https://imageai.readthedocs.io/en/latest/detection/index.html
         conda activate <VirtualEnvironmentName>
         conda install tensorflow opencv keras jupyter
         conda install -c powerai imageai
+        
+        jupyter notebook
 
 
 Thanks a lot to Moses Olafenwa! (https://github.com/OlafenwaMoses)
